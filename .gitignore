@@ -1,0 +1,14 @@
+# Ignore all files
+# /*
+
+# Includelist some files
+# !.gitignore
+# !README.md
+
+# Includelist some files starting with name
+# !P2M3*.*
+
+# Includelist folder
+# !images/
+Telco-Customer-Churn.xls
+CustomerChurnDetection-ANN.ipynb
