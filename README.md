@@ -70,10 +70,10 @@ From all three segment show similarities in having a short average tenure, indic
 - Strengthen customer service to provide effective and responsive support.
 
 ## Our Team
-- Gilang Wiradhyaksa | [LinkedIn](https://www.linkedin.com/in/gilangwiradhyaksa/) | [GitHub](https://github.com/gilangwd)  
-- Joshua Osaze Kurniawan | [LinkedIn](https://www.linkedin.com/in/joshua-osaze-kurniawan-45560228a/) | [GitHub](https://github.com/JoshuaOsazeKurniawan)  
-- Stephanus Adinata Susanto | [LinkedIn](https://www.linkedin.com/in/stephanus-adinata-susanto-1b115b170/) | [GitHub](https://github.com/StephanusAdinata)  
-- Samuel Christian Soendjojo | [LinkedIn](https://www.linkedin.com/in/samchriss94/) | [GitHub](https://github.com/samchriss94)  
+- Gilang Wiradhyaksa | [Linkedin](https://www.linkedin.com/in/gilangwiradhyaksa/) | [GitHub](https://github.com/gilangwd)  
+- Joshua Osaze Kurniawan | [Linkedin](https://www.linkedin.com/in/joshua-osaze-kurniawan-45560228a/) | [GitHub](https://github.com/JoshuaOsazeKurniawan)  
+- Stephanus Adinata Susanto | [Linkedin](https://www.linkedin.com/in/stephanus-adinata-susanto-1b115b170/) | [GitHub](https://github.com/StephanusAdinata)  
+- Samuel Christian Soendjojo | [Linkedin](https://www.linkedin.com/in/samchriss94/) | [GitHub](https://github.com/samchriss94)  
 
 ## Acknowledgements
 The Telco Transaction data used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/)
